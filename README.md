@@ -2,7 +2,7 @@ Olá!!
 
 Eu sou o Tiago.
 
-Me aventurando na programação com enfâse no Front-End.
+Em busca de ser um desenvolvedor Front-End.
 
 Languages: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
