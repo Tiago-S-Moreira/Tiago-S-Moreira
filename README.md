@@ -1,8 +1,8 @@
-Ola!!
+Olá!!
 
 Eu sou o Tiago.
 
-Me desbravando na aventura da programação Front-End.
+Me aventurando na programação com enfâse no Front-End.
 
 Languages: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
